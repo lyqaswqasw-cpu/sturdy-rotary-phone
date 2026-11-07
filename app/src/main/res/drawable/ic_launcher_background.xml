@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top-left dark navy background (#151827) sampled directly from the uploaded Foul TV icon -->
+    <path
+        android:fillColor="#151827"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Bottom-right electric royal blue diagonal split (#0369FC) sampled directly from the uploaded Foul TV icon -->
+    <path
+        android:fillColor="#0369FC"
+        android:pathData="M108,0 L108,108 L0,108 Z" />
+</vector>

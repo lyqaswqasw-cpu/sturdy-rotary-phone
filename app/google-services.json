@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "166166048792",
+    "firebase_url": "https://foul-ddbb8-default-rtdb.firebaseio.com",
+    "project_id": "foul-ddbb8",
+    "storage_bucket": "foul-ddbb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166166048792:android:2320501ff45cee4961936d",
+        "android_client_info": {
+          "package_name": "com.foul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKd4aGpfLcYolAZqO2cPWxseAbplJCwTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166166048792:android:5bd9cdbe9487349261936d",
+        "android_client_info": {
+          "package_name": "com.foul.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKd4aGpfLcYolAZqO2cPWxseAbplJCwTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166166048792:android:5bd9cdbe9487349261936d",
+        "android_client_info": {
+          "package_name": "com.aistudio.foultv.kxmpzq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKd4aGpfLcYolAZqO2cPWxseAbplJCwTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Foul TV",
+  "description": "تطبيق بث مباشر للقنوات ومكتبة أفلام ومسلسلات وجدول مباريات شامل بتصميم احترافي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

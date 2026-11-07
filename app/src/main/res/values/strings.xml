@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Foul TV</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_library">المكتبة</string>
+    <string name="nav_matches">جدول المباريات</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="search_library">بحث في الأفلام والمسلسلات...</string>
+    <string name="load_more">عرض المزيد</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_movies">الأفلام</string>
+    <string name="filter_series">المسلسلات</string>
+    <string name="player_error">لا يعمل هناك مشكلة</string>
+    <string name="telegram_channel">قناة التيلجرام الرسمية</string>
+    <string name="tab_events">الأحداث</string>
+    <string name="tab_lineups">التشكيلة</string>
+    <string name="tab_stats">الإحصائيات</string>
+    <string name="tab_standings">الترتيب</string>
+    <string name="tab_news">الأخبار</string>
+</resources>
